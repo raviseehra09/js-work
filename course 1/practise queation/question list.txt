@@ -1,0 +1,5 @@
+Q 1 : Take two inputs from user and perform the sum of input number
+Q 2 : Take input from user as a radius and print the area and circumference 
+      of circle
+Q 3 : Take two inputs a and b from user and check whether a is bigger or b is bigger
+      or both are equal 
